@@ -1,1 +1,1 @@
-Exceptions
+Getting started with javascript

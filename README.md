@@ -1,1 +1,1 @@
-High level languages here
+Objects, Scopes and so on
